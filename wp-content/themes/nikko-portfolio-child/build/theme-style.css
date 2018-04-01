@@ -1,0 +1,46 @@
+
+/* Home */
+.bottom-buffer {
+  /* This margin I took from the title on the main page, so the spacing would match */
+  margin-bottom:5.202rem;
+}
+
+/* Home.skills */
+.skills .icon {
+  text-align:center;
+  font-size:4.5rem;
+}
+.skills .card {
+  padding:15px;
+  margin-bottom:15px;
+}
+.btn-outline-primary:visited {
+  color:#007bff;
+}
+.btn-outline-primary:visited:hover {
+  color:#fff;
+}
+
+/* Home.about-mini */
+.about-mini .portrait {
+  margin-bottom:30px;
+}
+.about-mini .portrait img {
+  width:100%;
+  max-width:300px;
+  border-radius: 10px;
+  border: .25rem solid whitesmoke;
+}
+
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
